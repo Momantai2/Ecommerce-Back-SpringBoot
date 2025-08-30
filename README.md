@@ -1,10 +1,7 @@
-<<<<<<< HEAD
 # back-spring
 
 # Ecommerce-Back-SpringBoot
 
 Ecommerce desarrollado con Java(Spring Boot)
-=======
-# Ecommerce-Back-SpringBoot
-Ecommerce desarrollado con Java(Spring Boot) 
->>>>>>> 722e068217f33dcd73347f6c94fcb7a7ea747592
+Usando el diseño MVC con dto y mappers
+Utilizando la api de stripe, para desarrollar la pasarela de pagos
